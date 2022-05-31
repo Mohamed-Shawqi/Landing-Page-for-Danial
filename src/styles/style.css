@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+li.active {
+    background-color: #0eb712;
+    color: white;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
